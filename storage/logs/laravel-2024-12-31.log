@@ -1,0 +1,1508 @@
+[2024-12-31 05:00:09] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:00:58] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:01:58] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:02:58] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:03:58] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:04:58] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:05:58] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:06:58] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:07:58] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:08:58] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:09:58] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:10:58] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:11:58] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:12:58] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:13:58] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:14:58] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:15:58] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:16:58] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:17:58] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:18:58] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:19:58] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:20:58] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:21:58] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:22:58] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:24:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:25:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:26:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:27:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:28:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:29:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:30:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:31:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:32:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:33:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:34:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:35:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:36:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:37:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:38:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:39:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:40:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:41:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:42:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:43:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:44:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:45:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:46:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:47:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:48:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:49:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:50:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:51:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:52:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:53:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:54:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:55:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:56:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:57:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:58:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 05:59:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:00:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:01:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:02:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:03:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:04:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:05:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:06:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:07:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:08:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:09:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:10:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:11:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:12:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:13:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:14:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:15:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:16:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:17:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:18:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:19:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:20:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:21:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:22:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:23:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:24:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:25:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:26:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:27:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:28:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:29:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:30:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:31:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:32:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:33:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:34:12] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:35:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:36:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:37:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:38:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:39:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:40:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:41:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:42:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:43:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:44:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:45:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:46:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:47:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:48:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:49:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:50:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:51:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:52:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:53:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:54:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:55:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:56:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:57:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:58:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 06:59:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:00:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:01:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:02:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:03:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:04:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:05:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:06:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:07:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:08:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:09:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:10:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:11:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:12:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:13:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:14:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:15:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:16:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:17:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:18:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:19:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:20:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:21:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:22:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:23:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:24:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:25:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:26:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:27:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:28:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:29:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:30:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:31:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:32:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:33:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:34:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:35:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:36:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:37:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:38:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:39:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:40:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:41:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:42:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:43:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:44:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:45:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:46:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:47:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:48:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:49:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:50:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:51:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:52:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:53:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:54:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:55:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:56:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:57:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:58:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 07:59:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 08:00:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 08:01:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 08:02:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 08:03:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 08:04:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 08:05:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 08:06:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 08:07:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 08:08:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 08:09:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 08:10:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 08:11:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 08:12:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 08:13:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 08:14:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 08:15:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 08:16:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 08:17:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 08:18:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 08:19:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 08:20:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 08:21:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 08:22:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 08:23:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 08:24:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 08:25:13] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 09:42:22] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 09:43:22] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 09:44:19] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 09:45:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 09:46:19] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 09:47:19] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 09:48:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 09:49:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 09:50:19] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 09:51:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 09:52:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 09:53:19] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 09:54:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 09:55:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 09:56:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 09:57:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 09:58:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 09:59:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:00:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:01:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:02:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:03:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:04:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:05:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:06:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:07:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:08:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:09:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:10:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:11:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:12:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:13:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:14:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:15:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:16:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:17:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:18:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:19:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:20:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:21:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:22:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:23:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:24:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:25:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:26:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:27:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:28:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:29:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:30:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:31:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:32:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:33:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:34:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:35:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:36:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:37:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:38:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:39:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:40:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:41:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:42:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:43:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:44:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:45:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:46:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:47:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:48:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:49:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:50:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:51:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:52:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:53:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:54:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:55:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:56:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:57:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:58:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 10:59:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:00:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:01:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:02:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:03:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:04:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:05:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:06:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:07:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:08:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:09:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:10:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:11:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:12:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:13:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:14:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:15:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:16:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:17:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:18:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:19:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:20:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:21:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:22:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:23:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:24:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:25:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:26:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:27:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:28:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:29:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:30:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:31:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:32:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:33:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:34:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:35:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:36:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:37:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:38:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:39:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:40:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:41:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:42:22] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:43:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:44:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:45:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:46:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:47:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:48:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:49:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:50:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:51:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:52:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:53:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:54:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:55:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:56:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:57:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:58:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 11:59:20] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 12:00:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 12:01:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 12:02:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 12:03:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 12:04:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 12:05:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 12:06:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 12:07:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 12:08:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 12:09:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 12:10:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 12:11:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 12:12:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 12:13:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 12:14:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 12:15:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 12:16:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 12:17:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 12:18:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 12:19:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 12:20:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 12:21:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 12:22:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 12:23:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 12:24:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 12:25:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 12:26:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 12:27:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 12:28:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 12:29:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 12:30:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 12:31:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2024-12-31 12:32:21] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\sbg_product\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55) at C:\\xampp\\htdocs\\sbg_product\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
