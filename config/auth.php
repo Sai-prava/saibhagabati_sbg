@@ -13,9 +13,17 @@ return [
     |
     */
 
-    'defaults' => [
-        'guard' => 'web',
-        'passwords' => 'users',
+
+    'guards' => [
+        'web' => [
+            'driver' => 'session',
+            'provider' => 'tbl_users',
+        ],
+
+        'api' => [
+            'driver' => 'passport',
+            'provider' => 'tbl_users',
+        ],
     ],
 
     /*

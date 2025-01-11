@@ -22,6 +22,7 @@ use App\Role;
 use App\User;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Hash;
+use Illuminate\Support\Facades\Validator;
 
 class UserController extends Controller
 {
@@ -59,10 +60,11 @@ class UserController extends Controller
      */
     public function store(Request $request)
     {
-        $this->validate($request,
+        $this->validate(
+            $request,
             [
                 'role' => 'required',
-                'name' => 'required|max:50',
+                'user_name' => 'required|max:50',
                 'designation' => 'required|max:50',
                 'phone_number' => 'required|max:50',
                 'email' => 'required|regex:/(.+)@(.+)\.(.+)/i',
@@ -71,8 +73,8 @@ class UserController extends Controller
             ],
             [
                 'role.required' => __('index.role_required'),
-                'name.required' => __('index.name_required'),
-                'name.max' => __('index.name_max'),
+                'user_name.required' => __('index.user_name_required'),
+                'user_name.max' => __('index.user_name_max'),
                 'designation.required' => __('index.designation_required'),
                 'designation.max' => __('index.designation_max'),
                 'phone_number.required' => __('index.phone_required'),
@@ -90,9 +92,13 @@ class UserController extends Controller
         $row->role = 2;
         $row->type = 'User';
         $row->designation = $request->designation;
-        $row->name = $request->name;
+        $row->user_name = $request->user_name;
         $row->phone_number = $request->phone_number;
         $row->email = $request->email;
+        $row->dob = $request->dob;
+        $row->gender = $request->gender;
+        $row->date_of_joining = $request->date_of_joining;
+        $row->address = $request->address;
         $row->password = Hash::make($request->password);
         $row->status = $request->status;
         $row->permission_role = $request->role;
@@ -105,7 +111,45 @@ class UserController extends Controller
         $row->save();
 
         return redirect()->route('user.index')->with(saveMessage());
+    }
 
+    public function login(Request $request)
+    {
+        $payloads = $request->all();
+
+        $validator = Validator::make($payloads, [
+            'email' => 'required|email',
+            'password' => 'required|string',
+        ]);
+
+        if ($validator->fails()) {
+            return response()->json([
+                'message' => $validator->errors()
+            ], 200);
+        } else {
+            $user = User::where([
+                'email' => $payloads['email']
+            ])->first();
+
+            if (!$user) {
+                return response()->json([
+                    'message' => 'Email is not found',
+                    'code' => 500
+                ], 200);
+            } else {
+                if ($user && Hash::check($payloads['password'], $user['password'])) {
+                    $token = $user->createToken('Login_token')->accessToken;
+                    $user['token'] = $token;
+                    return response()->json([
+                        'user' => $user
+                    ], 200);
+                } else {
+                    return response()->json([
+                        'message' => 'Invalid Credentials'
+                    ], 200);
+                }
+            }
+        }
     }
 
     /**
@@ -130,7 +174,7 @@ class UserController extends Controller
         $obj = User::find(encrypt_decrypt($id, 'decrypt'));
         $roles = Role::orderBy('title')->get();
         $title = __('index.edit_user');
-        return view('pages.user.addEdit', compact('obj','title','roles'));
+        return view('pages.user.addEdit', compact('obj', 'title', 'roles'));
     }
 
     /**
@@ -142,7 +186,8 @@ class UserController extends Controller
      */
     public function update(Request $request, $id)
     {
-        $this->validate($request,
+        $this->validate(
+            $request,
             [
                 'role' => 'required',
                 'name' => 'required|max:50',
@@ -182,7 +227,7 @@ class UserController extends Controller
         $row->company_id = 1;
         $row->save();
 
-        if($request->password != null){           
+        if ($request->password != null) {
             $row->password = Hash::make($request->password);
         }
         $row->save();
@@ -200,7 +245,7 @@ class UserController extends Controller
     {
         $obj = User::find($id);
         $obj->del_status = "Deleted";
-        $obj->email = $obj->email.'-deleted';
+        $obj->email = $obj->email . '-deleted';
         $obj->save();
         return redirect()->route('user.index')->with(deleteMessage());
     }

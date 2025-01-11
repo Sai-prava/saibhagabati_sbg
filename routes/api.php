@@ -3,6 +3,7 @@
 use App\Http\Controllers\Api\CardViewController;
 use App\Http\Controllers\Api\LivelocationController;
 use App\Http\Controllers\Api\TimelineController;
+use App\Http\Controllers\UserController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
@@ -16,8 +17,10 @@ use Illuminate\Support\Facades\Route;
 | is assigned the "api" middleware group. Enjoy building your API!
 |
 */
-
-Route::get('livelocation',[LivelocationController::class, 'liveLocationAjax']);
-Route::post('dashboard/getTimeLineAjax', [TimelineController::class, 'getTimeLineAjax'])->name('dashboard.getTimeLineAjax');
-Route::post('timeLine/updateLocationAjax', [TimelineController::class, 'updateLocationAjax'])->name('timeLine.updateLocationAjax');
-Route::get('dashboard/cardViewAjax', [CardViewController::class, 'cardViewAjax'])->name('dashboard/cardViewAjax');
+Route::post('login',[UserController::class, 'login']);
+Route::middleware('auth:api')->group(function () {
+    Route::get('livelocation', [LivelocationController::class, 'liveLocationAjax']);
+    Route::post('dashboard/getTimeLineAjax', [TimelineController::class, 'getTimeLineAjax'])->name('dashboard.getTimeLineAjax');
+    Route::post('timeLine/updateLocationAjax', [TimelineController::class, 'updateLocationAjax'])->name('timeLine.updateLocationAjax');
+    Route::get('dashboard/cardViewAjax', [CardViewController::class, 'cardViewAjax'])->name('dashboard/cardViewAjax');
+});

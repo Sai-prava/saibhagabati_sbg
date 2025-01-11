@@ -50,7 +50,7 @@
                                 {{-- id="emp" --}}
                                 <option selected>Please select employee</option>
                                 @foreach ($employees as $employee)
-                                    <option value="{{ $employee->id }}">{{ $employee->name }}
+                                    <option value="{{ $employee->id }}">{{ $employee->user_name }}
                                     </option>
                                 @endforeach
                             </select>

@@ -41,7 +41,7 @@
                             @foreach ($obj as $key => $value)
                                 <tr>
                                     <td class="ir_txt_center">{{ ++$key }}</td>
-                                    <td>{{ $value->name ?? '' }}</td>
+                                    <td>{{ $value->user_name ?? '' }}</td>
                                     <td>{{ $value->designation ?? '' }}</td>
                                     <td>{{ $value->email ?? '' }}</td>
                                     <td>{{ $value->phone_number ?? '' }}</td>

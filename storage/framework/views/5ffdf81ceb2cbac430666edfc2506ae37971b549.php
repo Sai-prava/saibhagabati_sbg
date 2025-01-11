@@ -41,7 +41,7 @@
                             <?php $__currentLoopData = $obj; $__env->addLoop($__currentLoopData); foreach($__currentLoopData as $key => $value): $__env->incrementLoopIndices(); $loop = $__env->getLastLoop(); ?>
                                 <tr>
                                     <td class="ir_txt_center"><?php echo e(++$key); ?></td>
-                                    <td><?php echo e($value->name ?? ''); ?></td>
+                                    <td><?php echo e($value->user_name ?? ''); ?></td>
                                     <td><?php echo e($value->designation ?? ''); ?></td>
                                     <td><?php echo e($value->email ?? ''); ?></td>
                                     <td><?php echo e($value->phone_number ?? ''); ?></td>

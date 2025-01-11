@@ -69,17 +69,18 @@ unset($__errorArgs, $__bag); ?>
                         <div class="row">
                             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 mb-2">
                                 <div class="form-group">
-                                    <label><?php echo app('translator')->get('index.name'); ?> <?php echo starSign(); ?></label>
-                                    <input type="text" name="name"
-                                        class="form-control <?php $__errorArgs = ['name'];
+                                    <label><?php echo app('translator')->get('index.user_name'); ?> <?php echo starSign(); ?></label>
+                                    <input type="text" name="user_name"
+                                        class="form-control <?php $__errorArgs = ['user_name'];
 $__bag = $errors->getBag($__errorArgs[1] ?? 'default');
 if ($__bag->has($__errorArgs[0])) :
 if (isset($message)) { $__messageOriginal = $message; }
 $message = $__bag->first($__errorArgs[0]); ?> is-invalid <?php unset($message);
 if (isset($__messageOriginal)) { $message = $__messageOriginal; }
 endif;
-unset($__errorArgs, $__bag); ?> name"
-                                        placeholder="<?php echo e(__('index.name')); ?>" value="<?php echo e(isset($obj) && $obj->name ? $obj->name : old('name')); ?>">
+unset($__errorArgs, $__bag); ?> user_name"
+                                        placeholder="<?php echo e(__('index.name')); ?>"
+                                        value="<?php echo e(isset($obj) && $obj->user_name ? $obj->user_name : old('user_name')); ?>">
                                 </div>
                                 <?php $__errorArgs = ['name'];
 $__bag = $errors->getBag($__errorArgs[1] ?? 'default');
@@ -105,7 +106,8 @@ $message = $__bag->first($__errorArgs[0]); ?> is-invalid <?php unset($message);
 if (isset($__messageOriginal)) { $message = $__messageOriginal; }
 endif;
 unset($__errorArgs, $__bag); ?> designation"
-                                        placeholder="<?php echo e(__('index.designation')); ?>" value="<?php echo e(isset($obj) && $obj->designation ? $obj->designation : old('designation')); ?>">
+                                        placeholder="<?php echo e(__('index.designation')); ?>"
+                                        value="<?php echo e(isset($obj) && $obj->designation ? $obj->designation : old('designation')); ?>">
                                 </div>
                                 <?php $__errorArgs = ['designation'];
 $__bag = $errors->getBag($__errorArgs[1] ?? 'default');
@@ -131,7 +133,8 @@ $message = $__bag->first($__errorArgs[0]); ?> is-invalid <?php unset($message);
 if (isset($__messageOriginal)) { $message = $__messageOriginal; }
 endif;
 unset($__errorArgs, $__bag); ?>"
-                                        placeholder="<?php echo e(__('index.email')); ?>" value="<?php echo e(isset($obj) && $obj->email ? $obj->email : old('email')); ?>">
+                                        placeholder="<?php echo e(__('index.email')); ?>"
+                                        value="<?php echo e(isset($obj) && $obj->email ? $obj->email : old('email')); ?>">
                                 </div>
                                 <?php $__errorArgs = ['email'];
 $__bag = $errors->getBag($__errorArgs[1] ?? 'default');
@@ -157,7 +160,8 @@ $message = $__bag->first($__errorArgs[0]); ?> is-invalid <?php unset($message);
 if (isset($__messageOriginal)) { $message = $__messageOriginal; }
 endif;
 unset($__errorArgs, $__bag); ?>"
-                                        placeholder="<?php echo e(__('index.phone_number')); ?>" value="<?php echo e(isset($obj) && $obj->phone_number ? $obj->phone_number : old('phone_number')); ?>">
+                                        placeholder="<?php echo e(__('index.phone_number')); ?>"
+                                        value="<?php echo e(isset($obj) && $obj->phone_number ? $obj->phone_number : old('phone_number')); ?>">
                                 </div>
                                 <?php $__errorArgs = ['phone_number'];
 $__bag = $errors->getBag($__errorArgs[1] ?? 'default');
@@ -224,6 +228,77 @@ unset($__errorArgs, $__bag); ?>"
                             </div>
                             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 mb-2">
                                 <div class="form-group">
+                                    <label>
+                                        DOB
+                                    </label>
+                                    <input type="date" class="form-control <?php $__errorArgs = ['title'];
+$__bag = $errors->getBag($__errorArgs[1] ?? 'default');
+if ($__bag->has($__errorArgs[0])) :
+if (isset($message)) { $__messageOriginal = $message; }
+$message = $__bag->first($__errorArgs[0]); ?> is-invalid <?php unset($message);
+if (isset($__messageOriginal)) { $message = $__messageOriginal; }
+endif;
+unset($__errorArgs, $__bag); ?>"
+                                        name="dob" id="dob" autocomplete="off"
+                                        value="<?php echo e(isset($obj->dob) ? $obj->dob : old('	dob')); ?>" placeholder="">
+                                </div>
+                            </div>
+                            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 mb-2">
+                                <div class="form-group">
+                                    <label for="gender">Gender</label>
+                                    <select class="form-control <?php $__errorArgs = ['gender'];
+$__bag = $errors->getBag($__errorArgs[1] ?? 'default');
+if ($__bag->has($__errorArgs[0])) :
+if (isset($message)) { $__messageOriginal = $message; }
+$message = $__bag->first($__errorArgs[0]); ?> is-invalid <?php unset($message);
+if (isset($__messageOriginal)) { $message = $__messageOriginal; }
+endif;
+unset($__errorArgs, $__bag); ?>" name="gender" id="gender">
+                                        <option value="">Select Gender</option>
+                                        <option value="Male" <?php echo e((isset($obj->gender) && $obj->gender == 'Male') ? 'selected' : ''); ?>>Male</option>
+                                        <option value="Female" <?php echo e((isset($obj->gender) && $obj->gender == 'Female') ? 'selected' : ''); ?>>Female</option>
+                                        <option value="Other" <?php echo e((isset($obj->gender) && $obj->gender == 'Other') ? 'selected' : ''); ?>>Other</option>
+                                    </select>
+                                </div>
+                            </div>
+                            
+
+                            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 mb-2">
+                                <div class="form-group">
+                                    <label>
+                                        Date of Joining
+                                    </label>
+                                    <input type="date" class="form-control <?php $__errorArgs = ['title'];
+$__bag = $errors->getBag($__errorArgs[1] ?? 'default');
+if ($__bag->has($__errorArgs[0])) :
+if (isset($message)) { $__messageOriginal = $message; }
+$message = $__bag->first($__errorArgs[0]); ?> is-invalid <?php unset($message);
+if (isset($__messageOriginal)) { $message = $__messageOriginal; }
+endif;
+unset($__errorArgs, $__bag); ?>"
+                                        name="date_of_joining" id="date_of_joining" autocomplete="off"
+                                        value="<?php echo e(isset($obj->date_of_joining) ? $obj->date_of_joining : old('date_of_joining')); ?>">
+                                </div>
+                            </div>
+                            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 mb-2">
+                                <div class="form-group">
+                                    <label>
+                                        Address
+                                    </label>
+                                    <input type="text" class="form-control <?php $__errorArgs = ['title'];
+$__bag = $errors->getBag($__errorArgs[1] ?? 'default');
+if ($__bag->has($__errorArgs[0])) :
+if (isset($message)) { $__messageOriginal = $message; }
+$message = $__bag->first($__errorArgs[0]); ?> is-invalid <?php unset($message);
+if (isset($__messageOriginal)) { $message = $__messageOriginal; }
+endif;
+unset($__errorArgs, $__bag); ?>"
+                                        name="address" id="address" autocomplete="off"
+                                        value="<?php echo e(isset($obj->address) ? $obj->address : old('address')); ?>" placeholder="Enter the address">
+                                </div>
+                            </div>
+                            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 mb-2">
+                                <div class="form-group">
                                     <label><?php echo app('translator')->get('index.status'); ?> <?php echo starSign(); ?></label>
 
                                     <select name="status" id="status"
@@ -235,8 +310,12 @@ $message = $__bag->first($__errorArgs[0]); ?> is-invalid <?php unset($message);
 if (isset($__messageOriginal)) { $message = $__messageOriginal; }
 endif;
 unset($__errorArgs, $__bag); ?> select2">
-                                        <option value="Active" <?php echo e(isset($obj->status) && $obj->status == 'Active' ? 'selected' : null); ?>><?php echo e(__('index.active')); ?></option>
-                                        <option value="Inactive" <?php echo e(isset($obj->status) && $obj->status == 'Inactive' ? 'selected' : null); ?>><?php echo e(__('index.in_active')); ?></option>
+                                        <option value="Active"
+                                            <?php echo e(isset($obj->status) && $obj->status == 'Active' ? 'selected' : null); ?>>
+                                            <?php echo e(__('index.active')); ?></option>
+                                        <option value="Inactive"
+                                            <?php echo e(isset($obj->status) && $obj->status == 'Inactive' ? 'selected' : null); ?>>
+                                            <?php echo e(__('index.in_active')); ?></option>
                                     </select>
                                 </div>
                                 <?php $__errorArgs = ['status'];
@@ -253,7 +332,8 @@ unset($__errorArgs, $__bag); ?>
                         </div>
                         <div class="row mt-2">
                             <div class="col-sm-12 col-md-6 mb-2 d-flex gap-3">
-                                <button type="submit" name="submit" value="submit" class="btn bg-blue-btn"><iconify-icon
+                                <button type="submit" name="submit" value="submit"
+                                    class="btn bg-blue-btn"><iconify-icon
                                         icon="solar:check-circle-broken"></iconify-icon><?php echo app('translator')->get('index.submit'); ?></button>
                                 <a class="btn bg-second-btn" href="<?php echo e(route('user.index')); ?>"><iconify-icon
                                         icon="solar:round-arrow-left-broken"></iconify-icon><?php echo app('translator')->get('index.back'); ?></a>
