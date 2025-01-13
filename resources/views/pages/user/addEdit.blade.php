@@ -52,7 +52,7 @@
                         <div class="row">
                             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 mb-2">
                                 <div class="form-group">
-                                    <label>@lang('index.user_name') {!! starSign() !!}</label>
+                                    <label>@lang('index.name') {!! starSign() !!}</label>
                                     <input type="text" name="user_name"
                                         class="form-control @error('user_name') is-invalid @enderror user_name"
                                         placeholder="{{ __('index.name') }}"

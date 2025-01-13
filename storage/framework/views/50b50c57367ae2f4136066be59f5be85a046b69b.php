@@ -46,9 +46,9 @@
                             <input type="date" id="date" class="form-control form-control-sm float-end ps-2 pe-2"
                                 value="<?php echo e(now()->format('Y-m-d')); ?>">
                         </div>
-                        <div class="col">              
-                            <select class="form-select form-select-sm pe-2" aria-label=".form-select-sm example">
-                                
+                        <div class="col">
+                            <select class="form-select form-select-sm pe-2" aria-label=".form-select-sm example"
+                                id="emp">
                                 <option selected>Please select employee</option>
                                 <?php $__currentLoopData = $employees; $__env->addLoop($__currentLoopData); foreach($__currentLoopData as $employee): $__env->incrementLoopIndices(); $loop = $__env->getLastLoop(); ?>
                                     <option value="<?php echo e($employee->id); ?>"><?php echo e($employee->user_name); ?>
@@ -125,7 +125,7 @@
             var date = $('#date').val();
             $.ajax({
                 type: "POST",
-                url: '<?php echo e(route('dashboard.getTimeLineAjax')); ?>',
+                url: '<?php echo e(route('api.getTimeLineAjax')); ?>',
                 data: {
                     "userId": userId,
                     "date": date,
@@ -530,7 +530,7 @@
         function updateAddressToDb(trackingId, address) {
             $.ajax({
                 type: "POST",
-                url: '<?php echo e(route('timeLine.updateLocationAjax')); ?>',
+                url: '<?php echo e(route('api.timeLineUpdateLocationAjax')); ?>',
                 data: {
                     "trackingId": trackingId,
                     "address": address,

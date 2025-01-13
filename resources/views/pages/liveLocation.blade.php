@@ -1,40 +1,43 @@
-{{-- @php
+@php
     $title = 'Live Location';
     $settings = \App\Settings::first();
-@endphp --}}
+@endphp
 @section('title')
     {{ $settings->title }}
 @endsection
 @extends('layouts.app')
 @section('content')
-<section class="main-content-wrapper">
-    <div class="row mb-3 justify-content-between">
-        <div class="col-6">
-            <div class="float-start">
-                <div class="card radius-10 shadow border-0 border-start">
-                    <div class="card-body">
-                        <div class="text-center">
-                            <div class="col">
-                                <div class="btn-group" role="group" aria-label="Basic example">
-                                    <button type="button" class="btn btn-outline-primary">Online <span class="badge bg-success" id="online">0</span> </button>
-                                    <button type="button" class="btn btn-outline-primary">Offline <span class="badge bg-danger" id="offline">0</span></button>
+    <section class="main-content-wrapper">
+        <div class="row mb-3 justify-content-between">
+            <div class="col-6">
+                <div class="float-start">
+                    <div class="card radius-10 shadow border-0 border-start">
+                        <div class="card-body">
+                            <div class="text-center">
+                                <div class="col">
+                                    <div class="btn-group" role="group" aria-label="Basic example">
+                                        <button type="button" class="btn btn-outline-primary">Online <span
+                                                class="badge bg-success" id="online">0</span> </button>
+                                        <button type="button" class="btn btn-outline-primary">Offline <span
+                                                class="badge bg-danger" id="offline">0</span></button>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+            <div class="col-2 align-self-center align-items-end ">
+                <a class="btn btn-outline-primary" href="{{ route('liveLocation') }}"><i class="bi bi-arrow-clockwise"></i>
+                    Refresh</a>
+            </div>
         </div>
-        <div class="col-2 align-self-center align-items-end ">             
-            <a class="btn btn-outline-primary" href="{{route('liveLocation')}}"><i class="bi bi-arrow-clockwise"></i> Refresh</a>
-        </div>
-    </div>
 
-    <div class="card shadow">
-        <div id="map" class="gmaps p-0 shadow" style="height:80vh">
+        <div class="card shadow">
+            <div id="map" class="gmaps p-0 shadow" style="height:80vh">
+            </div>
         </div>
-    </div>
-</section>
+    </section>
     {{-- @dd($settings) --}}
 @endsection
 

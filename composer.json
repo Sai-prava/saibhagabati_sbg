@@ -10,7 +10,7 @@
     "require": {
         "php": "^8.0",
         "barryvdh/laravel-dompdf": "^2.2",
-        "cartalyst/sentinel": "6.0",
+        "cartalyst/sentinel": "^6.0",
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^7.0.1",
         "intervention/image": "^2.5",

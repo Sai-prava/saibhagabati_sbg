@@ -19,8 +19,8 @@ use Illuminate\Support\Facades\Route;
 */
 Route::post('login',[UserController::class, 'login']);
 Route::middleware('auth:api')->group(function () {
-    Route::get('livelocation', [LivelocationController::class, 'liveLocationAjax']);
-    Route::post('dashboard/getTimeLineAjax', [TimelineController::class, 'getTimeLineAjax'])->name('dashboard.getTimeLineAjax');
-    Route::post('timeLine/updateLocationAjax', [TimelineController::class, 'updateLocationAjax'])->name('timeLine.updateLocationAjax');
-    Route::get('dashboard/cardViewAjax', [CardViewController::class, 'cardViewAjax'])->name('dashboard/cardViewAjax');
+    Route::get('livelocation', [LivelocationController::class, 'liveLocationAjax'])->name('api.livelocationAjax');
+    Route::post('dashboard/getTimeLineAjax', [TimelineController::class, 'getTimeLineAjax'])->name('api.getTimeLineAjax');
+    Route::post('timeLine/updateLocationAjax', [TimelineController::class, 'updateLocationAjax'])->name('api.timeLineUpdateLocationAjax');
+    Route::get('dashboard/cardViewAjax', [CardViewController::class, 'cardViewAjax'])->name('api.CardViewAjax');
 });

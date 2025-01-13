@@ -45,9 +45,9 @@
                             <input type="date" id="date" class="form-control form-control-sm float-end ps-2 pe-2"
                                 value="{{ now()->format('Y-m-d') }}">
                         </div>
-                        <div class="col">              
-                            <select class="form-select form-select-sm pe-2" aria-label=".form-select-sm example">
-                                {{-- id="emp" --}}
+                        <div class="col">
+                            <select class="form-select form-select-sm pe-2" aria-label=".form-select-sm example"
+                                id="emp">
                                 <option selected>Please select employee</option>
                                 @foreach ($employees as $employee)
                                     <option value="{{ $employee->id }}">{{ $employee->user_name }}
@@ -123,7 +123,7 @@
             var date = $('#date').val();
             $.ajax({
                 type: "POST",
-                url: '{{ route('dashboard.getTimeLineAjax') }}',
+                url: '{{ route('getTimeLineAjax') }}',
                 data: {
                     "userId": userId,
                     "date": date,

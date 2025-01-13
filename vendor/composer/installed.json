@@ -271,17 +271,17 @@
         },
         {
             "name": "cartalyst/sentinel",
-            "version": "v6.0.0",
-            "version_normalized": "6.0.0.0",
+            "version": "v6.0.1",
+            "version_normalized": "6.0.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/cartalyst/sentinel.git",
-                "reference": "11d84ed39f3bd254ece1aca508a6e62838db5dab"
+                "reference": "8b96a5d913718a44efa011480065ee53d5a91166"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cartalyst/sentinel/zipball/11d84ed39f3bd254ece1aca508a6e62838db5dab",
-                "reference": "11d84ed39f3bd254ece1aca508a6e62838db5dab",
+                "url": "https://api.github.com/repos/cartalyst/sentinel/zipball/8b96a5d913718a44efa011480065ee53d5a91166",
+                "reference": "8b96a5d913718a44efa011480065ee53d5a91166",
                 "shasum": ""
             },
             "require": {
@@ -304,7 +304,7 @@
                 "illuminate/events": "To hook into various events across Sentinel, we recommend using Illuminate's event dispatcher.",
                 "symfony/http-foundation": "Required for native implementations."
             },
-            "time": "2022-04-05T22:42:08+00:00",
+            "time": "2023-08-10T16:04:13+00:00",
             "type": "library",
             "extra": {
                 "laravel": {
@@ -349,7 +349,7 @@
             ],
             "support": {
                 "issues": "https://github.com/cartalyst/sentinel/issues",
-                "source": "https://github.com/cartalyst/sentinel/tree/v6.0.0"
+                "source": "https://github.com/cartalyst/sentinel/tree/v6.0.1"
             },
             "install-path": "../cartalyst/sentinel"
         },
@@ -2434,75 +2434,6 @@
                 "source": "https://github.com/laravel/passport"
             },
             "install-path": "../laravel/passport"
-        },
-        {
-            "name": "laravel/sanctum",
-            "version": "v3.3.3",
-            "version_normalized": "3.3.3.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/laravel/sanctum.git",
-                "reference": "8c104366459739f3ada0e994bcd3e6fd681ce3d5"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/laravel/sanctum/zipball/8c104366459739f3ada0e994bcd3e6fd681ce3d5",
-                "reference": "8c104366459739f3ada0e994bcd3e6fd681ce3d5",
-                "shasum": ""
-            },
-            "require": {
-                "ext-json": "*",
-                "illuminate/console": "^9.21|^10.0",
-                "illuminate/contracts": "^9.21|^10.0",
-                "illuminate/database": "^9.21|^10.0",
-                "illuminate/support": "^9.21|^10.0",
-                "php": "^8.0.2"
-            },
-            "require-dev": {
-                "mockery/mockery": "^1.0",
-                "orchestra/testbench": "^7.28.2|^8.8.3",
-                "phpstan/phpstan": "^1.10",
-                "phpunit/phpunit": "^9.6"
-            },
-            "time": "2023-12-19T18:44:48+00:00",
-            "type": "library",
-            "extra": {
-                "laravel": {
-                    "providers": [
-                        "Laravel\\Sanctum\\SanctumServiceProvider"
-                    ]
-                },
-                "branch-alias": {
-                    "dev-master": "3.x-dev"
-                }
-            },
-            "installation-source": "source",
-            "autoload": {
-                "psr-4": {
-                    "Laravel\\Sanctum\\": "src/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Taylor Otwell",
-                    "email": "taylor@laravel.com"
-                }
-            ],
-            "description": "Laravel Sanctum provides a featherweight authentication system for SPAs and simple APIs.",
-            "keywords": [
-                "auth",
-                "laravel",
-                "sanctum"
-            ],
-            "support": {
-                "issues": "https://github.com/laravel/sanctum/issues",
-                "source": "https://github.com/laravel/sanctum"
-            },
-            "install-path": "../laravel/sanctum"
         },
         {
             "name": "laravel/serializable-closure",

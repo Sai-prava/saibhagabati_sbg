@@ -14,31 +14,32 @@ class TimelineController extends Controller
 {
     public function getTimeLineAjax(Request $request)
     {
-
+        // dd($request->user_id);
         $employeeId = $request->userId;
-        $date = $request->date;
+        // dd($employeeId);
+        $date = date('Y-m-d H:i:s',strtotime($request->date));
+        // dd($date);
 
         $trackingHelper = new TrackingHelper();
 
         $attendance = AttendanceModel::where('user_id', '=', $employeeId)
-            ->with('user')
-            ->with('trackings')
-            ->whereDate('created_at', '=', $date)
+            ->where('created_at', '=', $date)
+            ->with('user', 'trackings')
             ->first();
-            // dd( $attendance );
+        // dd($attendance->trackings);
 
         $device = UserDevice::where('user_id', '=', $employeeId)
             ->with('user')
             ->first();
-        // dd( $device) ;   
+        // dd($device);
 
         if ($attendance == null) {
             return response()->json([
-                'employeeName' =>$device? $device->user->getFullName() : 'N/A',
-                'employeeId' => $device? $device->user->id : 'N/A',
+                'employeeName' => $device ? $device->user->user_name : 'N/A',
+                'employeeId' => $device ? $device->user->id : 'N/A',
                 'totalTrackedTime' => '00:00:00',
                 'totalAttendanceTime' => '00:00:00',
-                'deviceInfo' => $device ? $device->brand . ' ' . $device->model: 'N/A',
+                'deviceInfo' => $device ? $device->brand . ' ' . $device->model : 'N/A',
                 'timeLineItems' => [],
             ]);
         }
@@ -214,7 +215,7 @@ class TimelineController extends Controller
 
             $response = [
                 'employeeId' => $attendance->user->id,
-                'employeeName' => $attendance->user->getFullName(),
+                'employeeName' => $attendance->user->user_name,
                 'attendanceId' => $attendance->id,
                 'totalTrackedTime' => $totalTrackedTime,
                 'totalAttendanceTime' => $totalAttendanceTime,

@@ -182,7 +182,7 @@
             function getData() {
                 $.ajax({
                     type: "GET",
-                    url: '{{ route('dashboard/cardViewAjax') }}',
+                    url: '{{ route('dashboard.cardViewAjax') }}',
                     //data: { "name": $("#txtName").val() },
                     success: function(response) {
                         var onlineCount = 0;

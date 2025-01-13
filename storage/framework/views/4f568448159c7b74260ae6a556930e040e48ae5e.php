@@ -69,7 +69,7 @@ unset($__errorArgs, $__bag); ?>
                         <div class="row">
                             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 mb-2">
                                 <div class="form-group">
-                                    <label><?php echo app('translator')->get('index.user_name'); ?> <?php echo starSign(); ?></label>
+                                    <label><?php echo app('translator')->get('index.name'); ?> <?php echo starSign(); ?></label>
                                     <input type="text" name="user_name"
                                         class="form-control <?php $__errorArgs = ['user_name'];
 $__bag = $errors->getBag($__errorArgs[1] ?? 'default');

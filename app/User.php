@@ -20,6 +20,7 @@ namespace App;
 use Illuminate\Contracts\Auth\MustVerifyEmail;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
+use Illuminate\Database\Eloquent\Relations\HasMany;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 use Laravel\Passport\HasApiTokens;
@@ -38,7 +39,7 @@ class User extends Authenticatable
      * @var array
      */
     protected $fillable = [
-        'name',
+        'user_name',
         'designation',
         'email',
         'phone_number ',
@@ -107,4 +108,55 @@ class User extends Authenticatable
     {
         return $this->belongsTo(Role::class, 'permission_role');
     }
+    public function userDevice()
+    {
+        return $this->hasOne(UserDevice::class, 'user_id');
+    }
+    public function attendances(): HasMany
+    {
+        return $this->hasMany(Attendance::class, 'user_id');
+    }
+    public function roles()
+    {
+        return $this->belongsToMany(Role::class, 'role_users', 'user_id', 'role_id');
+    }
+
+    public function shift()
+    {
+        return $this->belongsTo(Shift::class, 'shift_id');
+    }
+
+    public function team()
+    {
+        return $this->belongsTo(Team::class, 'team_id');
+    }
+    public function site()
+    {
+        return $this->belongsTo(Site::class, 'site_id');
+    }
+    public function geofenceGroup()
+    {
+        return $this->belongsTo(GeofenceGroup::class, 'geofence_group_id');
+    }
+
+    public function ipAddressGroup()
+    {
+        return $this->belongsTo(IpAddressGroup::class, 'ip_address_group_id');
+    }
+    
+    public function tasks()
+    {
+        return $this->hasMany(Task::class, 'user_id');
+    }
+
+    public function geofenceVerifications()
+    {
+        return $this->hasMany(GeofenceVerificationLog::class, 'user_id');
+    }
+
+    public function ipAddressVerifications()
+    {
+        return $this->hasMany(IpAddressVerificationLog::class, 'user_id');
+    }
+
 }

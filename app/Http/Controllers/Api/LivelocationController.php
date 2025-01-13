@@ -16,7 +16,7 @@ class LivelocationController extends Controller
     public function liveLocationAjax()
     {
         try {
-            $userDevices = UserDevice::whereDate('updated_at', '>=', now())
+            $userDevices = UserDevice::whereDate('updated_at', '>=',now())
                 ->with('user')
                 ->get();
             // dd($userDevices);
@@ -55,7 +55,7 @@ class LivelocationController extends Controller
 
                 $response[] = [
                     'id' => $attendance->user_id,
-                    'name' => $attendance->user->getFullName(),
+                    'name' => $attendance->user->user_name,
                     'latitude' => $attendance->user->userDevice->latitude,
                     'longitude' => $attendance->user->userDevice->longitude,
                     'status' => $status,

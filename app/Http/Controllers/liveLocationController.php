@@ -14,8 +14,7 @@ class liveLocationController extends Controller
 {
     public function liveLocation()
     {
-        $settings = Settings::first();
-        return view('pages.liveLocation',compact('settings'));
+        return view('pages.liveLocation');
     }
     public function liveLocationAjax()
     {
@@ -59,7 +58,7 @@ class liveLocationController extends Controller
 
                 $response[] = [
                     'id' => $attendance->user_id,
-                    'name' => $attendance->user->getFullName(),
+                    'name' => $attendance->user->user_name,
                     'latitude' => $attendance->user->userDevice->latitude,
                     'longitude' => $attendance->user->userDevice->longitude,
                     'status' => $status,

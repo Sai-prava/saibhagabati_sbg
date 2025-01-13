@@ -79,12 +79,13 @@ Route::group(['middleware' => ['XSS']], function () {
         Route::get('/liveLocation', [liveLocationController::class, 'liveLocation'])->name('liveLocation');
         Route::get('liveLocationAjax', [liveLocationController::class, 'liveLocationAjax'])->name('liveLocationAjax');
         //Timeline
-        Route::post('dashboard/getTimeLineAjax', [TimelineController::class, 'getTimeLineAjax'])->name('dashboard.getTimeLineAjax');
+        // Route::post('dashboard/getTimeLineAjax', [TimelineController::class, 'getTimeLineAjax'])->name('dashboard.getTimeLineAjax');
         Route::get('timeLine', [TimelineController::class, 'timeLine'])->name('timeLine');
+        Route::post('getTimeLineAjax', [TimelineController::class, 'getTimeLineAjax'])->name('getTimeLineAjax');
         Route::post('timeLine/updateLocationAjax', [TimelineController::class, 'updateLocationAjax'])->name('timeLine.updateLocationAjax');
         // card view 
         Route::get('cardView', [CardViewController::class, 'cardView'])->name('cardView');
-        Route::get('dashboard/cardViewAjax', [CardViewController::class, 'cardViewAjax'])->name('dashboard/cardViewAjax');
+        Route::get('dashboard/cardViewAjax', [CardViewController::class, 'cardViewAjax'])->name('dashboard.cardViewAjax');
         
         Route::get('/home', [App\Http\Controllers\DashboardController::class, 'profile'])->name('home')->withoutMiddleware('has_permission');
         Route::get('/balance-by-account', [App\Http\Controllers\DashboardController::class, 'getBalance'])->name('balance-by-account');
