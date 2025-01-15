@@ -190,7 +190,7 @@ class UserController extends Controller
             $request,
             [
                 'role' => 'required',
-                'name' => 'required|max:50',
+                'user_name' => 'required|max:50',
                 'designation' => 'required|max:50',
                 'phone_number' => 'required|max:50',
                 'email' => 'required|regex:/(.+)@(.+)\.(.+)/i',
@@ -199,8 +199,8 @@ class UserController extends Controller
             ],
             [
                 'role.required' => __('index.role_required'),
-                'name.required' => __('index.name_required'),
-                'name.max' => __('index.name_max'),
+                'user_name.required' => __('index.user_name_required'),
+                'user_name.max' => __('index.user_name_max'),
                 'designation.required' => __('index.designation_required'),
                 'designation.max' => __('index.designation_max'),
                 'phone_number.required' => __('index.phone_required'),
@@ -217,14 +217,21 @@ class UserController extends Controller
         $row->role = 2;
         $row->type = 'User';
         $row->designation = $request->designation;
-        $row->name = $request->name;
+        $row->user_name = $request->user_name;
         $row->phone_number = $request->phone_number;
         $row->email = $request->email;
         $row->status = $request->status;
         $row->permission_role = $request->role;
         $row->salary = null_check($request->salary);
+        $row->dob = $request->dob;
+        $row->gender = $request->gender;
+        $row->date_of_joining = $request->date_of_joining;
+        $row->address = $request->address;
         $row->is_first_login = 1;
+        $row->del_status = 'Live';
         $row->company_id = 1;
+        $row->team_id = 1;
+        $row->shift_id = 1;
         $row->save();
 
         if ($request->password != null) {

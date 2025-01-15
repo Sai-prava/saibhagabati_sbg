@@ -57,7 +57,7 @@ class CardViewController extends Controller
 
                 $cardItems[] = [
                     'id' => $attendance->user->id,
-                    'name' => $attendance->user->first_name . ' ' . $attendance->user->last_name,
+                    'name' => $attendance->user->user_name,
                     'phoneNumber' => $attendance->user->phone_number,
                     'batteryLevel' => $device->battery_percentage,
                     'isGpsOn' => $device->is_gps_on,

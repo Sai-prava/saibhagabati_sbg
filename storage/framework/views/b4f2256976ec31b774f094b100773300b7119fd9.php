@@ -184,7 +184,7 @@
             function getData() {
                 $.ajax({
                     type: "GET",
-                    url: '<?php echo e(route('api.CardViewAjax')); ?>',
+                    url: '<?php echo e(route('dashboard.cardViewAjax')); ?>',
                     //data: { "name": $("#txtName").val() },
                     success: function(response) {
                         var onlineCount = 0;

@@ -87,7 +87,7 @@
                 headers: {
                     'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
                 },
-                url: "<?php echo e(route('api.livelocationAjax')); ?>",
+                url: "<?php echo e(route('liveLocationAjax')); ?>",
                 type: 'GET',
                 dataType: 'json',
                 success: function(response) {

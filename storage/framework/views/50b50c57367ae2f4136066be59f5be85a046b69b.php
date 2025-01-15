@@ -125,7 +125,7 @@
             var date = $('#date').val();
             $.ajax({
                 type: "POST",
-                url: '<?php echo e(route('api.getTimeLineAjax')); ?>',
+                url: '<?php echo e(route('getTimeLineAjax')); ?>',
                 data: {
                     "userId": userId,
                     "date": date,
@@ -530,7 +530,7 @@
         function updateAddressToDb(trackingId, address) {
             $.ajax({
                 type: "POST",
-                url: '<?php echo e(route('api.timeLineUpdateLocationAjax')); ?>',
+                url: '<?php echo e(route('timeLine.updateLocationAjax')); ?>',
                 data: {
                     "trackingId": trackingId,
                     "address": address,

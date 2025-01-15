@@ -19,7 +19,6 @@ class CardViewController extends Controller
         $teamsList = Team::where('status', '=', 'active')
             ->get();
 
-
         $attendances = AttendanceModel::whereDate('created_at', '=', now())
             ->get();
 
@@ -32,7 +31,7 @@ class CardViewController extends Controller
 
         $userDevices = UserDevice::whereIn('user_id', $users->pluck('id'))
             ->get();
-
+            
         $teams = [];
         foreach ($teamsList as $team) {
 
@@ -60,7 +59,7 @@ class CardViewController extends Controller
 
                 $cardItems[] = [
                     'id' => $attendance->user->id,
-                    'name' => $attendance->user->first_name . ' ' . $attendance->user->last_name,
+                    'name' => $attendance->user->user_name,
                     'phoneNumber' => $attendance->user->phone_number,
                     'batteryLevel' => $device->battery_percentage,
                     'isGpsOn' => $device->is_gps_on,
@@ -93,8 +92,7 @@ class CardViewController extends Controller
         $teamsList = Team::where('status', '=', 'active')
             ->get();
 
-
-        $attendances = Attendance::whereDate('created_at', '=', now())
+        $attendances = AttendanceModel::whereDate('created_at', '=', now())
             ->get();
 
         $trackingHelper = new TrackingHelper();
@@ -103,7 +101,6 @@ class CardViewController extends Controller
             ->where('team_id', '!=', null)
             ->where('shift_id', '!=', null)
             ->get();
-
 
         $userDevices = UserDevice::whereIn('user_id', $users->pluck('id'))
             ->get();
@@ -114,7 +111,6 @@ class CardViewController extends Controller
             $user = $users->where('team_id', '=', $team->id);
 
             $teamAttendances = $attendances->whereIn('user_id', $user->pluck('id'));
-
 
             foreach ($teamAttendances as $attendance) {
 
@@ -134,7 +130,7 @@ class CardViewController extends Controller
 
                 $cardItems[] = [
                     'id' => $attendance->user->id,
-                    'name' => $attendance->user->first_name . ' ' . $attendance->user->last_name,
+                    'name' => $attendance->user->user_name,
                     'phoneNumber' => $attendance->user->phone_number,
                     'batteryLevel' => $device->battery_percentage,
                     'isGpsOn' => $device->is_gps_on,
@@ -144,7 +140,7 @@ class CardViewController extends Controller
                     'teamId' => $attendance->user->team_id,
                     'teamName' => $team->name,
                     'attendanceInAt' => $attendance->check_in_time,
-                    'attendanceOutAt' => $attendance->check_out_time ?? '',
+                    'attendanceOutAt' => $attendance->check_out_time ?? 'N/A',
                     'latitude' => $device->latitude,
                     'longitude' => $device->longitude,
                     'address' => $device->address,
