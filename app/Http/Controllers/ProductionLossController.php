@@ -29,7 +29,7 @@ class ProductionLossController extends Controller
     {
         $title = __('index.add_production_loss');
 
-        $users = User::orderBy('name', 'ASC')->where('del_status', "Live")->get();
+        $users = User::orderBy('user_name', 'ASC')->where('del_status', "Live")->get();
         $manufactures = Manufacture::orderBy('id', 'ASC')->where('manufacture_status', 'done')->where('del_status', "Live")->get();
         return view('pages.production_loss.index', compact('title', 'users', 'manufactures'));
     }
