@@ -18,7 +18,7 @@ class CardViewController extends Controller
         $teamsList = Team::where('status', '=', 'active')
             ->get();
 
-        $attendances = AttendanceModel::whereDate('created_at', '=', '2024-12-21')->get();
+        $attendances = AttendanceModel::whereDate('created_at', '=', now())->get();
 
         $trackingHelper = new TrackingHelper();
 

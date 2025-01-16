@@ -31,7 +31,7 @@ class CardViewController extends Controller
 
         $userDevices = UserDevice::whereIn('user_id', $users->pluck('id'))
             ->get();
-            
+
         $teams = [];
         foreach ($teamsList as $team) {
 
@@ -56,7 +56,7 @@ class CardViewController extends Controller
                 $visitsCount = Visit::where('attendance_id', '=', $attendance->id)
                     ->whereDate('created_at', '=', now())
                     ->count();
-
+                    
                 $cardItems[] = [
                     'id' => $attendance->user->id,
                     'name' => $attendance->user->user_name,
