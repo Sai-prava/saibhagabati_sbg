@@ -1,0 +1,660 @@
+[2025-01-18 05:00:11] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:00:57] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:01:56] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:02:56] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:03:55] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:04:55] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:05:55] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:06:55] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:07:55] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:09:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:10:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:11:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:12:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:13:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:14:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:15:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:16:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:17:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:18:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:19:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:20:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:21:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:22:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:23:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:24:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:25:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:26:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:27:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:28:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:29:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:30:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:31:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:32:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:33:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:34:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:35:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:36:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:37:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:38:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:39:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:40:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:41:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:42:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:43:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:44:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:45:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:46:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:47:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:48:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:49:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:50:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:51:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:52:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:53:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:54:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:55:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:56:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:57:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:58:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 05:59:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:00:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:01:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:02:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:03:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:04:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:05:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:06:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:07:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:08:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:09:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:10:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:11:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:12:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:13:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:14:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:15:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:16:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:17:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:18:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:19:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:20:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:21:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:22:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:23:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:24:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:25:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:26:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:27:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:28:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:29:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:30:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:31:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:32:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:33:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:34:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:35:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:36:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:37:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:38:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:39:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:40:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:41:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:42:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:43:04] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:44:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:45:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:46:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:47:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:48:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:49:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:50:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:51:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:52:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:53:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:54:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:55:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:56:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:57:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:58:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 06:59:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 07:00:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 07:01:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 07:02:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 07:03:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 07:04:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 07:05:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 07:06:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 07:07:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 07:08:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 07:09:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 07:10:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 07:11:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 07:12:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 07:13:04] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 07:14:04] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 07:15:03] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 07:16:04] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 07:17:04] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 07:18:04] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 07:18:32] local.ERROR: Method Illuminate\Validation\Validator::validateUserName does not exist. {"exception":"[object] (BadMethodCallException(code: 0): Method Illuminate\\Validation\\Validator::validateUserName does not exist. at C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Validation\\Validator.php:1555)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Validation\\Validator.php(616): Illuminate\\Validation\\Validator->__call('validateUserNam...', Array)
+#1 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Validation\\Validator.php(422): Illuminate\\Validation\\Validator->validateAttribute('user_name', 'UserName')
+#2 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Validation\\Validator.php(453): Illuminate\\Validation\\Validator->passes()
+#3 C:\\xampp\\htdocs\\saibhagabati\\app\\Http\\Controllers\\UserController.php(125): Illuminate\\Validation\\Validator->fails()
+#4 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Controller.php(54): App\\Http\\Controllers\\UserController->login(Object(Illuminate\\Http\\Request))
+#5 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(43): Illuminate\\Routing\\Controller->callAction('login', Array)
+#6 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(259): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\UserController), 'login')
+#7 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(205): Illuminate\\Routing\\Route->runController()
+#8 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(798): Illuminate\\Routing\\Route->run()
+#9 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#10 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#11 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#12 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\ThrottleRequests.php(126): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#13 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\ThrottleRequests.php(57): Illuminate\\Routing\\Middleware\\ThrottleRequests->handleRequest(Object(Illuminate\\Http\\Request), Object(Closure), Array)
+#14 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), '60', '1')
+#15 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(797): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#17 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(776): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#18 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(740): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#19 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(729): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#20 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(190): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#21 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#22 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#25 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#26 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#27 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 C:\\xampp\\htdocs\\saibhagabati\\vendor\\fruitcake\\laravel-cors\\src\\HandleCors.php(52): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Fruitcake\\Cors\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#35 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#36 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#37 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(165): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#38 C:\\xampp\\htdocs\\saibhagabati\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#39 C:\\xampp\\htdocs\\saibhagabati\\index.php(64): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#40 {main}
+"} 
+[2025-01-18 07:19:04] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 07:20:04] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 07:21:04] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 07:22:04] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 07:23:04] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 07:24:04] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 07:25:04] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 07:26:04] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 07:27:04] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 07:28:04] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 07:29:04] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 07:30:04] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 07:31:05] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 07:32:04] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 
+[2025-01-18 07:33:04] local.ERROR: Cannot redeclare getBaseURL() (previously declared in C:\xampp\htdocs\saibhagabati\app\helpers.php:55) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getBaseURL() (previously declared in C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55) at C:\\xampp\\htdocs\\saibhagabati\\app\\helpers.php:55)
+[stacktrace]
+#0 {main}
+"} 

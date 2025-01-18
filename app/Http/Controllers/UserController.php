@@ -118,7 +118,7 @@ class UserController extends Controller
         $payloads = $request->all();
 
         $validator = Validator::make($payloads, [
-            'email' => 'required|email',
+            'user_name' => 'required',
             'password' => 'required|string',
         ]);
 
@@ -128,12 +128,12 @@ class UserController extends Controller
             ], 200);
         } else {
             $user = User::where([
-                'email' => $payloads['email']
-            ])->first();
+                'user_name' => $payloads['user_name']
+            ])->orWhere('email', $payloads['user_name'])->first();
 
             if (!$user) {
                 return response()->json([
-                    'message' => 'Email is not found',
+                    'message' => 'User name is not found',
                     'code' => 500
                 ], 200);
             } else {
